@@ -1,0 +1,23 @@
+{
+  "name": "edlivky-hospital",
+  "version": "1.0.0",
+  "description": "Hospital Administration Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss -i ./src/input.css -o ./public/assets/css/style.css --watch",
+    "build": "tailwindcss -i ./src/input.css -o ./public/assets/css/style.css"
+  },
+  "keywords": ["hospital", "dashboard", "admin"],
+  "author": "EdlivkyHospital",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "@tailwindcss/forms": "^0.5.7"
+  },
+  "dependencies": {
+    "alpinejs": "^3.13.0",
+    "chart.js": "^4.4.0",
+    "flatpickr": "^4.6.13",
+    "flowbite": "^2.2.0"
+  }
+}
