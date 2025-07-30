@@ -19,7 +19,7 @@ A modern, responsive hospital administration dashboard built with PHP, Tailwind 
 - **Interactivity**: Alpine.js v3.13.0
 - **Charts**: Chart.js v4.4.0
 - **Date Handling**: Flatpickr v4.6.13
-- **Backend**: PHP & MYssql
+- **Backend**: PHP & MYsql
 - **Icons**: Font Awesome 6.4.0
 
 ## Project Structure
